@@ -16,6 +16,8 @@
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="React Native" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" />
+<img align="left" alt="laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />
+<img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 <img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
 <img align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
@@ -25,7 +27,6 @@
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 <img align="left" alt="supabase" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png" />
 <img align="left" alt="firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
-<img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 <br clear="all" /><br />
 
 ---
