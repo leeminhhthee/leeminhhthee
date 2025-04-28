@@ -3,27 +3,28 @@
 
 🔭 I'm a **final-year student** at the **Vietnam- Korea University of Information and Communication Technology (VKU)**, majoring in **Software Engineering** (Bilingual English – Vietnamese).
 
-🌱 I am passionate about and focused on **Web and Mobile App Development** using various technologies. However, I am also open to exploring opportunities in other roles and expanding my skill set in different areas. I’m currently focusing on improving my skills in **Web and Mobile App Development**, with a strong emphasis on **Mobile App Development** (especially **Flutter**, **Android Kotlin**, **Java**, **React Native**, and potentially **Swift** in the future).  
+🌱 I am passionate about and focused on **Web and Mobile App Development** using various technologies. However, I am also open to exploring opportunities in other roles and expanding my skill set in different areas. 
+- ✨ With a strong emphasis on **Mobile App Development** (especially **Flutter**, **Android Kotlin**, **Java**, **React Native**, and potentially **Swift** in the future).  
 - 🌐 For **Web Development**, I'm working with **React**, **Next.js**, and other modern web technologies.  
 - 💻 On the **Backend**, I’m learning to build **RESTful APIs** and working with databases such as **Supabase**, **MongoDB**, **SQL**, **Firebase**, and others.  
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
-<img align="left" alt="supabase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png" />
-<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Next.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
+<img align="left" alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" />
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
+<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="supabase" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png" />
+<img align="left" alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 <br clear="all" /><br />
 
 ---
