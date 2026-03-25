@@ -14,10 +14,10 @@ maintenance, and store publishing.
 Specialized in **Mobile App Development**, with strong experience in:
 
 -   **Flutter (Primary)** -- Cross-platform mobile application
-    development\
--   **Android (Kotlin / Java)** -- Native Android development\
+    development
+-   **Android (Kotlin / Java)** -- Native Android development
 -   Production app development, CI/CD pipelines, App Store & Google Play
-    publishing\
+    publishing
 -   Performance optimization and scalable mobile architecture
 
 ------------------------------------------------------------------------
@@ -53,14 +53,14 @@ capabilities.
 
 ## 🛠️ Tech Stack
 
-**Mobile:** Flutter, Android (Kotlin, Java), React Native\
-**Frontend:** React, Next.js\
-**API:** REST, GraphQL\
+**Mobile:** Flutter, Android (Kotlin, Java), React Native
+**Frontend:** React, Next.js
+**API:** REST, GraphQL
 **Database:** Supabase, MongoDB, PostgreSQL, Firebase, SQL, Hasura
 
 ------------------------------------------------------------------------
 
 ## 📬 Contact
 
--   Email: minhthe22122003@gmail.com\
--   GitHub: https://github.com/leeminhhthee
+-   Email: minhthe22122003@gmail.com
+-   LinkedIn: www.linkedin.com/in/thelemobile
